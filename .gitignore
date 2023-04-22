@@ -1,0 +1,11 @@
+# ignore the data folder
+data/*
+
+# ignore the models folder
+models/*
+
+# ignore ipynb checkpoints
+.ipynb_checkpoints
+
+# ignore pycache
+__pycache__
